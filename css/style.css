@@ -1,0 +1,122 @@
+.titolo1{
+	color:#ff0000
+}
+.bordo{
+	border-radius: 20px 20px 20px 20px;
+}
+.stile2{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.color{
+	color:#dc143c;
+}
+.sfondo{
+	background-size: 2000px;
+	background-repeat: no-repeat;
+}
+.stile2{
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px
+}
+.stile3{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px
+}
+
+.scrittaindex{
+	font-family: 'Pangolin', cursive;
+}
+.scritta2{
+	font-family: 'Dancing Script', cursive;
+}
+.viaggio{
+	font-family: 'Philosopher', sans-serif;
+}
+  .city{
+font-family: 'Bowlby One SC', cursive;
+ }
+ .scritta4{
+ 	font-family: 'Farsan', cursive;
+ 	color:	#e9967a	;
+ }
+ .div {
+
+    height: 100px;
+    width: 100%;
+    background-color: powderblue;
+}
+.chiesa{
+	
+	width:25%;
+}
+.foto1{
+	color: purple;
+}
+.scritta3{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 20px;
+}
+.sun{
+	width: 30%;
+}
+.titolo{
+font-family: 'Permanent Marker', cursive;
+   color:#cd5c5c;
+}
+.visite{
+	font-family: 'Nova Cut', cursive;
+}
+.back{
+	background:#faf0e6;
+}
+.city{
+	font-family: 'Aubrey', cursive;
+	color:	#000080;
+}
+.sette{
+	font-family: 'Mouse Memoirs', sans-serif;
+	font-size: 24px;
+	color:	#6a5acd;
+	}
+.meraviglie{
+	font-family: 'Luckiest Guy', cursive;
+}
+.what{
+	font-family: 'Caveat', cursive;
+}
+.definizione{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.title{
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 18px;
+}
+.poor{
+	font-family: 'Poor Story', cursive;
+	font-size: 45px;
+	color:	#6a5acd;
+}
+.prg{
+	font-family: 'Amatic SC', cursive;
+	
+}
+.sfondo2{
+	background:	#fffaf0;
+}
+.leopardi{
+	font-family: 'Gugi', cursive;
+	color:#ffa07a;
+}
+.posto{
+	font-family: 'Halant', serif;
+}
+.luogo{
+	font-family: 'Anaheim', sans-serif;
+}
+.ultimo{
+	font-family: 'BioRhyme Expanded', serif;
+	color:blue;
+}
+.sfondo3{
+	background: 	#dcdcdc;
+}

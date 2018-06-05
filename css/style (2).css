@@ -1,0 +1,36 @@
+.titolo{
+	color:#ff0000
+}
+.stile{
+	font-family: 'Permanent Marker', cursive;
+}
+.font{
+	font-size: 60px
+}
+.bordo{
+	border-radius: 20px 20px 20px 20px;
+}
+.stile2{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.color{
+	color:crimson;
+}
+.sfondo{
+	background-size: 2000px;
+	background-image:url("../img/mondo.jpg");
+	background-repeat: no-repeat;
+}
+.stile2{
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px
+}
+.stile3{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px
+}
+.grandezza{
+	font-size: 60px
+}
+
+.toglipuntini{list-style:none}
